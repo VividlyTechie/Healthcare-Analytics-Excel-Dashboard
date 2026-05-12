@@ -1,6 +1,6 @@
 # Healthcare Clinic Performance Dashboard
 
-![Healthcare Dashboard](DAshboard_screenshot.jpeg)
+![Healthcare Dashboard](DAshboard_screenshot.jpg)
 
 ## Overview
 This project presents an interactive Excel dashboard designed to analyze clinic performance, patient demographics, disease trends, revenue patterns, and treatment costs.
