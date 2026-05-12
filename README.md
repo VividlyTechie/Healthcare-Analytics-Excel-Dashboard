@@ -1,4 +1,3 @@
-# Healthcare-Analytics-Excel-Dashboard
 # Healthcare Clinic Performance Dashboard
 
 ![Healthcare Dashboard](DAshboard_screenshot.jpeg)
@@ -14,6 +13,7 @@ The dashboard transforms raw healthcare data into clear business and operational
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
+- Slicers & Interactive Filters
 - KPI Cards
 - Data Cleaning & Formatting
 
