@@ -1,4 +1,4 @@
-# Healthcare Clinic Performance Dashboard
+# Healthcare Clinic Performance Excel Dashboard
 
 ![Healthcare Dashboard](DAshboard_screenshot.jpg)
 
